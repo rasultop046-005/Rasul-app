@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MyNewProj\bin\Debug\net10.0\MyNewProj.exe
+C:\Users\User\Desktop\MyNewProj\bin\Debug\net10.0\MyNewProj.deps.json
+C:\Users\User\Desktop\MyNewProj\bin\Debug\net10.0\MyNewProj.runtimeconfig.json
+C:\Users\User\Desktop\MyNewProj\bin\Debug\net10.0\MyNewProj.dll
+C:\Users\User\Desktop\MyNewProj\bin\Debug\net10.0\MyNewProj.pdb
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.AssemblyInfo.cs
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.dll
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\refint\MyNewProj.dll
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.pdb
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\MyNewProj.genruntimeconfig.cache
+C:\Users\User\Desktop\MyNewProj\obj\Debug\net10.0\ref\MyNewProj.dll
